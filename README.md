@@ -1,7 +1,9 @@
 <h4>Moncash sdk pèman nan laravel</h4>
-
+<a href="https://www.digicelgroup.com/ht/fr/moncash/customer.html">
+    <img src="/Moncash-business/resources/assets/images/moncash_logo3.png" style="width: 175px;height: 140px;" class="img-responsive">
+</a>
 <p>App sa pèmèt ou resevwa lajan sou Moncash apati Rest API Moncash la, li fèt avek laravel ki se yon framework php
-pou plis enfo visite <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a>
+pou plis enfo visite <a href="https://laravel.com" target="_blank">https://laravel.com <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="150"></a>
 
 Itilizasyon
 
