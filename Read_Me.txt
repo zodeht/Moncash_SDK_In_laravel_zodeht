@@ -1,13 +1,10 @@
-<h4>Moncash sdk pèman nan laravel</h4>
+Moncash pèman
 
-<p>App sa pèmèt ou resevwa lajan sou Moncash apati Rest API Moncash la, li fèt avek laravel ki se yon framework php
-pou plis enfo visite <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a>
+App sa pèmèt ou resevwa lajan sou Moncash apati Rest API Moncash la, li fèt avek laravel ki se yon framework php
+pou plis enfo visite https://laravel.com/
 
 Itilizasyon
 
-Apre w fin desann projè pase komand sa 
-
-$ composer install
 
 a) Premye bagay ale nan app la na App/Http/Controllers/Controller.php 
 	wap defini idantifyan kliyan (client) epi kle sekrè a (secret).
